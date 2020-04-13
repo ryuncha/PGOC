@@ -4,27 +4,39 @@ topnav:
       - title: 1. Introduction
         group: Chapter. 1
         url: /docs/chapter01/0
-      - title: 2. Probabilty Distribution
+      - title: 2. Industial Organization, Managerial Economics, and Finance
         group: Chapter. 2
         url: /docs/chapter02/0
-      - title: 3. Linear Models for Regression
+      - title: 3. Economic Dispatch of Thermal Units and Methods of Solution
         group: Chapter. 3
         url: /docs/chapter03/0
-      - title: 4. Linear Models for Classification
+      - title: 4. Unit Commitment
         group: Chapter. 4
         url: /docs/chapter04/0
-      - title: 5. Neural Networks
+      - title: 5. Generation with Limited Energy Supply
         group: Chapter. 5
         url: /docs/chapter05/0
-      - title: 8. Graphical Models
+      - title: 6. Transmission System Effects
+        group: Chapter. 6
+        url: /docs/chapter06/0
+      - title: 7. Power System Security
+        group: Chapter. 7
+        url: /docs/chapter07/0
+      - title: 8. Optimal Power Flow
         group: Chapter. 8
         url: /docs/chapter08/0
-      - title: 9. Mixture Models and EM
+      - title: 9. Introduction to State Estimation in Power Systems
         group: Chapter. 9
         url: /docs/chapter09/0
-      - title: 10. Variational Inference
+      - title: 10. Control of Generation
         group: Chapter. 10
         url: /docs/chapter10/0
+      - title: 11. Interchange, Pooling, Brokers, and Auctions
+        group: Chapter. 11
+        url: /docs/chapter11/0
+      - title: 12. Short-Term Demand Forecasting
+        group: Chapter. 12
+        url: /docs/chapter12/0
   - title: 1
     group: "Chapter. 1"
     url: /docs/chapter01/0
@@ -61,5 +73,8 @@ topnav:
   - title: 11
     group: "Chapter. 11"
     url: /docs/chapter11/0
+  - title: 12
+    group: "Chapter. 12"
+    url: /docs/chapter12/0
     
 
