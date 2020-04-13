@@ -2,11 +2,11 @@
 title: PGOC
 
 email: "ryunx21@gmail.com"
-url: "http://ryuncha.github.io"
-github_url: "http://github.com/ryuncha/pgoc"
+url: "http://ryuncha.github.io/pgoc/"
+github_url: "http://github.com/ryuncha/pgoc/"
 github_editurl: "/blob/gh-pages"
 github_profile: "http://github.com/ryuncha"
-baseurl: "/pgoc"
+baseurl: "/pgoc/"
 disqus_shortname: ryunchagithub
 
 exclude:
